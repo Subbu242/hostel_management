@@ -29,7 +29,7 @@ check_login();
 
 </head>
 
-<body style="background-image: url(../img/dashboard.jpeg);" class="bk-img">
+<body style="background-image: url(../img/dashboard.jpg);" class="bk-img">
 <?php include("includes/header.php");?>
 
 	<div class="ts-main-content">
@@ -40,7 +40,7 @@ check_login();
 				<div class="row">
 					<div class="col-md-12">
 
-						<h2 class="page-title">Dashboard</h2>
+						<h2 class="page-title" style="color:#fff">Dashboard</h2>
 
 						<div class="row">
 							<div class="col-md-12">
