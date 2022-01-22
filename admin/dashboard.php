@@ -29,7 +29,7 @@ check_login();
 
 </head>
 
-<body>
+<body style="background-image: url(../img/dashboard.jpeg);" class="bk-img">
 <?php include("includes/header.php");?>
 
 	<div class="ts-main-content">
