@@ -72,7 +72,7 @@ return true;
 }
 </script>
 </head>
-<body>
+<body style="background-image: url(img/user.jpg);" class="bk-img">
 	<?php include('includes/header.php');?>
 	<div class="ts-main-content">
 		<?php include('includes/sidebar.php');?>
