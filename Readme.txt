@@ -1,7 +1,4 @@
-"FREE SOURCE CODE" How to run the Simple Hostel Management System Project
-FIRST DOWNLOAD
-
-
+### Hostel Management
 1.XAMPP
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
