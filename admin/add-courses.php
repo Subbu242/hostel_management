@@ -41,7 +41,7 @@ echo"<script>alert('Course has been added successfully');</script>";
 </head>
 <body>
 	<?php include('includes/header.php');?>
-	<div class="ts-main-content">
+	<div class="ts-main-content" style="background-image: url(../img/courses.jpg);">
 		<?php include('includes/sidebar.php');?>
 		<div class="content-wrapper">
 			<div class="container-fluid">
