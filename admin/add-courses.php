@@ -39,7 +39,7 @@ echo"<script>alert('Course has been added successfully');</script>";
 <script type="text/javascript" src="js/jquery-1.11.3-jquery.min.js"></script>
 <script type="text/javascript" src="js/validation.min.js"></script>
 </head>
-<body style="background-image: url(../img/courses.jpg);" class="bk-img">
+<body style="background-image: url(../img/courses.jpg);">
 	<?php include('includes/header.php');?>
 	<div class="ts-main-content">
 		<?php include('includes/sidebar.php');?>
