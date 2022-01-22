@@ -29,13 +29,13 @@ check_login();
 
 </head>
 
-<body style="background-image: url(../img/dashboard.jpg);" class="bk-img">
+<body>
 <?php include("includes/header.php");?>
 
 	<div class="ts-main-content">
 		<?php include("includes/sidebar.php");?>
 		<div class="content-wrapper">
-			<div class="container-fluid">
+			<div class="container-fluid" style="background-image: url(../img/dashboard.jpg);" class="bk-img">
 
 				<div class="row">
 					<div class="col-md-12">
