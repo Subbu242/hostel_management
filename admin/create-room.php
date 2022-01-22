@@ -60,7 +60,7 @@ echo"<script>alert('Room has been added successfully');</script>";
 				<div class="row">
 					<div class="col-md-12">
 					
-						<h2 class="page-title">Add a Room </h2>
+						<h2 class="page-title" style="color:#fff;">Add a Room </h2>
 	
 						<div class="row">
 							<div class="col-md-12">
