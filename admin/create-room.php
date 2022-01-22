@@ -52,7 +52,7 @@ echo"<script>alert('Room has been added successfully');</script>";
 </head>
 <body>
 	<?php include('includes/header.php');?>
-	<div class="ts-main-content">
+	<div class="ts-main-content" style="background-image: url(../img/rooms.jpg);">
 		<?php include('includes/sidebar.php');?>
 		<div class="content-wrapper">
 			<div class="container-fluid">
