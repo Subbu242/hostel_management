@@ -82,7 +82,7 @@ return true;
 				<div class="row">
 					<div class="col-md-12">
 					
-						<h2 class="page-title">User Login </h2>
+						<h2 class="page-title" style="color:#fff">User Login </h2>
 
 						<div class="row">
 					<div class="col-md-6 col-md-offset-3">
@@ -101,7 +101,7 @@ return true;
 							</div>
 						</div>
 						<div class="text-center text-light" style="color:black;">
-							<a href="forgot-password.php" style="color:black;">Forgot password?</a>
+							<a href="forgot-password.php" style="color:blue;">Forgot password?</a>
 						</div>
 					</div>
 				</div>
