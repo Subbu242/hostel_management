@@ -29,7 +29,7 @@ check_login();
 
 </head>
 
-<body bgcolor="#34e5eb">
+<body bgcolor="#ae3ede">
 <?php include("includes/header.php");?>
 
 	<div class="ts-main-content">
