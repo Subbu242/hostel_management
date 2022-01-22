@@ -39,9 +39,9 @@ echo"<script>alert('Course has been added successfully');</script>";
 <script type="text/javascript" src="js/jquery-1.11.3-jquery.min.js"></script>
 <script type="text/javascript" src="js/validation.min.js"></script>
 </head>
-<body>
+<body style="background-image: url(../img/courses.jpg);" class="bk-img">
 	<?php include('includes/header.php');?>
-	<div class="ts-main-content" style="background-image: url(../img/courses.jpg) no-repeat top center / cover;">
+	<div class="ts-main-content">
 		<?php include('includes/sidebar.php');?>
 		<div class="content-wrapper">
 			<div class="container-fluid">
@@ -49,7 +49,7 @@ echo"<script>alert('Course has been added successfully');</script>";
 				<div class="row">
 					<div class="col-md-12">
 					
-						<h2 class="page-title">Add Courses </h2>
+						<h2 class="page-title" style="color:#fff">Add Courses </h2>
 	
 						<div class="row">
 							<div class="col-md-12">
